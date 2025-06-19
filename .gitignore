@@ -1,0 +1,9 @@
+data/blender/exported_scenes
+data/raw
+todo.md
+*.blend1
+*.swp
+*.keras
+*.npz
+*__pycache__
+*ipynb_checkpoints
